@@ -1,0 +1,4 @@
+sobel_batch
+*.o
+__pycache__/
+.data/
